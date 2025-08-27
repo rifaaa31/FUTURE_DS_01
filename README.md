@@ -21,7 +21,8 @@ The task involved analyzing e-commerce sales data to identify *best-selling prod
 
 ## 📂 Repository Structure
 - PowerBI/ → https://github.com/rifaaa31/FUTURE_DS_01/blob/main/Task1.pbix  
-- screenshots/ → 
+- screenshots/ → 1. https://github.com/rifaaa31/FUTURE_DS_01/blob/main/Super%20Store%20Sales%20Dashboard.png
+ 2.
 - data/ → Sample dataset (if shareable)  
 - README.md → Project documentation  
 
